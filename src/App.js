@@ -22,23 +22,30 @@ function App() {
     }, []);
 
     function renderExamples(example) {
-        const { id, im, hg } = example;
+        const { title, url, note, id, im, hg } = example;
         return (
-            <div style={{display: "table"}}>
-                <img className="cell" src={im} alt=""/>
-                <div className="cell">
-                    <HiGlassComponent
-                        options={hgOptionsBase}
-                        viewConfig={hg}
-                    />
+            <div>
+                <h2 className="title"><a href={url}>{title}</a></h2>
+                <div className="note">
+                    {note}
                 </div>
-                <div className="cell" id={id}></div>
+                <div style={{display: "table", width: "100%"}}>
+                    <img className="cell" src={im} alt=""/>
+                    <div className="cell">
+                        <HiGlassComponent
+                            options={hgOptionsBase}
+                            viewConfig={hg}
+                        />
+                    </div>
+                    <div className="cell" id={id}></div>
+                </div>
             </div>
         )
     }
 
     return (
-        <div>
+        <div style={{padding: "20px"}}>
+            <h1>GenoCat Examples with HiGlass and Vega</h1>
             {examples.map(x => renderExamples(x))}
         </div>
     );
