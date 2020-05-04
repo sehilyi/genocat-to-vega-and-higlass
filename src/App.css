@@ -1,0 +1,6 @@
+.cell {
+    float: left;
+    width: 33.33%;
+    display: table-cell;
+    vertical-align: middle;
+}
