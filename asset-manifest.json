@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/genocat-to-vega-and-higlass/static/css/main.5491e906.chunk.css",
+    "main.js": "/genocat-to-vega-and-higlass/static/js/main.11a81cb2.chunk.js",
+    "main.js.map": "/genocat-to-vega-and-higlass/static/js/main.11a81cb2.chunk.js.map",
+    "runtime-main.js": "/genocat-to-vega-and-higlass/static/js/runtime-main.3b988c5c.js",
+    "runtime-main.js.map": "/genocat-to-vega-and-higlass/static/js/runtime-main.3b988c5c.js.map",
+    "static/js/2.f6d1a86a.chunk.js": "/genocat-to-vega-and-higlass/static/js/2.f6d1a86a.chunk.js",
+    "static/js/2.f6d1a86a.chunk.js.map": "/genocat-to-vega-and-higlass/static/js/2.f6d1a86a.chunk.js.map",
+    "index.html": "/genocat-to-vega-and-higlass/index.html",
+    "precache-manifest.86c5a7902d7d8d2067b5f6c4bfeade88.js": "/genocat-to-vega-and-higlass/precache-manifest.86c5a7902d7d8d2067b5f6c4bfeade88.js",
+    "service-worker.js": "/genocat-to-vega-and-higlass/service-worker.js",
+    "static/css/main.5491e906.chunk.css.map": "/genocat-to-vega-and-higlass/static/css/main.5491e906.chunk.css.map",
+    "static/js/2.f6d1a86a.chunk.js.LICENSE.txt": "/genocat-to-vega-and-higlass/static/js/2.f6d1a86a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b988c5c.js",
+    "static/js/2.f6d1a86a.chunk.js",
+    "static/css/main.5491e906.chunk.css",
+    "static/js/main.11a81cb2.chunk.js"
+  ]
+}
