@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b553d40f2c2deb1aa11a75f1c9e219a5",
+    "revision": "40641c62d1d857face6e3e7af38487a0",
     "url": "/genocat-to-vega-and-higlass/index.html"
   },
   {
-    "revision": "ec9f14ef1911776cdf80",
-    "url": "/genocat-to-vega-and-higlass/static/css/main.5491e906.chunk.css"
+    "revision": "098af3320519bd8027ea",
+    "url": "/genocat-to-vega-and-higlass/static/css/main.97d52387.chunk.css"
   },
   {
     "revision": "2c646e16dfcde9e00b7e",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/genocat-to-vega-and-higlass/static/js/2.f6d1a86a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ec9f14ef1911776cdf80",
-    "url": "/genocat-to-vega-and-higlass/static/js/main.11a81cb2.chunk.js"
+    "revision": "098af3320519bd8027ea",
+    "url": "/genocat-to-vega-and-higlass/static/js/main.bcc78848.chunk.js"
   },
   {
     "revision": "5c03fa651291f32a7dc8",
