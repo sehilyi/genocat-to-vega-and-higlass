@@ -45,7 +45,7 @@ function App() {
 
     return (
         <div style={{padding: "20px"}}>
-            <h1>GenoCat Examples with HiGlass and Vega</h1>
+            <h1>GenoCat Examples with Related HiGlass and Vega Views</h1>
             {examples.map(x => renderExamples(x))}
         </div>
     );
