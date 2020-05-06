@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/genocat-to-vega-and-higlass/precache-manifest.d890264ef7762eb0b3b79d3ad240b2f0.js"
+  "/genocat-to-vega-and-higlass/precache-manifest.d5afff9941119978a2add3e4a9be0cff.js"
 );
 
 self.addEventListener('message', (event) => {
